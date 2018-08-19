@@ -27,5 +27,9 @@ Nelwar is a fictional world created for the purposes of playing D&D 5th Edition.
 20. Athal
 21. Lafroeso
 22. Islands of Normir
+23. Jungles of Magu
+
+
+
 
 
