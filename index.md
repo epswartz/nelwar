@@ -2,7 +2,7 @@
 
 Nelwar is a fictional world created for the purposes of playing D&D 5th Edition. It will never be sold or distributed at scale.
 
-# Map
+# World Map
 ![World Map](Worldmap_colorized.png)
 
 1. Nihon
@@ -28,6 +28,9 @@ Nelwar is a fictional world created for the purposes of playing D&D 5th Edition.
 21. Lafroeso
 22. Islands of Normir
 23. Jungles of Magu
+
+# Other Maps
+- [Sneed's Hole](https://raw.githubusercontent.com/epswartz/nelwar/master/Sneeds%20Hole.png)
 
 # Races (Alphabetical)
 
